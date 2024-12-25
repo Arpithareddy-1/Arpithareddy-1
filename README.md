@@ -52,9 +52,13 @@ I am a committed DevOps Engineer with a talent for tackling challenging problems
 
 ### 🚀 **Amazon Deployment Pipeline**  
 **Tech Stack**: AWS ☁️, Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
-- Developed and automated an end-to-end deployment pipeline for a scalable e-commerce application.  
+- Developed and automated an end-to-end deployment pipeline for a scalable e-commerce application.
+- 
 
 📫 Let's Connect
+
 LinkedIn: Arpitha Reddy Sunketa 🌐
+
 Docker Hub: sweetyabc  🐳
+
 GitHub: Arpitha-1 🛠️
