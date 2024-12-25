@@ -11,8 +11,11 @@ I am a committed DevOps Engineer with a talent for tackling challenging problems
 🎓 Education: Master's in Computer and Information Science  
 
 🌍 Cloud Expertise: AWS ☁️, Azure ☁️, Google Cloud Platform (GCP) ☁️
+
 🔧 DevOps Tools: Jenkins 🔧, Docker 🐳, Kubernetes ☸️
+
 💻 Programming Skills: Python 🐍, Bash scripting 🖥️
+
 🛠 Current Interests: DevSecOps, CI/CD pipelines, Infrastructure as Code (IaC)  
 
 ---
