@@ -45,13 +45,13 @@ I am a committed DevOps Engineer with a talent for tackling challenging problems
 ## 📂 Featured Projects  
 
 ### 🌐 **Netflix Clone CI/CD Pipeline**  
-**Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, Monitoring tools 📈  
+Tech Stack: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, Monitoring tools 📈  
 - Automated the entire build, test, and deployment process for a Netflix Clone application.  
 
  
 
 ### 🚀 **Amazon Deployment Pipeline**  
-**Tech Stack**: AWS ☁️, Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
+Tech Stack: AWS ☁️, Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
 - Developed and automated an end-to-end deployment pipeline for a scalable e-commerce application.
 
 
