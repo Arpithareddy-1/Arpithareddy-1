@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋 I'm Arpitha Reddy Sunketa
 
 
 Welcome to my GitHub profile!  
@@ -9,10 +9,10 @@ I am a committed DevOps Engineer with a talent for tackling challenging problems
 
 ## 🚀 About Me  
 🎓 Education: Master's in Computer and Information Science  
-🌍 **Cloud Expertise**: AWS ☁️, Azure ☁️, Google Cloud Platform (GCP) ☁️  
-🔧 **DevOps Tools**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
-💻 **Programming Skills**: Python 🐍, Bash scripting 🖥️  
-🛠 **Current Interests**: DevSecOps, CI/CD pipelines, Infrastructure as Code (IaC)  
+🌍 Cloud Expertise: AWS ☁️, Azure ☁️, Google Cloud Platform (GCP) ☁️
+🔧 DevOps Tools: Jenkins 🔧, Docker 🐳, Kubernetes ☸️
+💻 Programming Skills: Python 🐍, Bash scripting 🖥️
+🛠 Current Interests: DevSecOps, CI/CD pipelines, Infrastructure as Code (IaC)  
 
 ---
 
@@ -44,13 +44,13 @@ I am a committed DevOps Engineer with a talent for tackling challenging problems
 **Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, SonarQube 🛡️, Monitoring tools 📈  
 - Automated the entire build, test, and deployment process for a Netflix Clone application.  
 
-### 🐾 **Petshop Application CI/CD Pipeline**  
-**Tech Stack**: Jenkins 🔧, Docker 🐳, Kubernetes ☸️, OWASP 🔒, SonarQube 🛡️  
-- Built a secure CI/CD pipeline for a 3-tier application using DevSecOps practices.  
+ 
 
 ### 🚀 **Amazon Deployment Pipeline**  
 **Tech Stack**: AWS ☁️, Jenkins 🔧, Docker 🐳, Kubernetes ☸️  
 - Developed and automated an end-to-end deployment pipeline for a scalable e-commerce application.  
 
-### 🖥️ **3-Tier Application CI/CD 
-
+📫 Let's Connect
+LinkedIn: Arpitha Reddy Sunketa 🌐
+Docker Hub: sweetyabc  🐳
+GitHub: Arpitha-1 🛠️
